@@ -1,0 +1,32 @@
+.add-property_background {
+    background:#F7F9FA;
+    text-align: center;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+.add-property_container {
+    max-width: 1110px;
+    margin: 0 auto ;
+    padding: 25px 95px 100px 95px;
+    background: #ffffff;
+    text-align: left;
+}
+.add-property_nav {
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+}
+.add-property_nav > button {
+    width: 95px;
+    height: 25px;
+    margin-left: 30px;
+}
+.add-property_input > input {
+    margin: 10px 0 10px 0;
+    width: 255px;
+    height: 32px;
+    border: 1px solid #E0E0E0;
+}
+.white_link{
+    color: white;
+}
